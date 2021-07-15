@@ -1,10 +1,5 @@
-/*
 
-Reflux Template
 
-https://templatemo.com/tm-531-reflux
-
-*/
 
 @import url(fontawesome.css);
 @import url("https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900");
@@ -795,6 +790,10 @@ section.contact-me {
         width: 94%;
         margin: 3%;
     }
+
+    .isotope-item figure {
+        height: 300px;
+    }
     .left-image-post img {
         margin-bottom: 30px;
     }
@@ -809,3 +808,6 @@ section.contact-me {
         margin-bottom: 20px;
     }
 }
+
+ /*
+https://github.com/LuisTrejos11/ColoryCuerpo 
